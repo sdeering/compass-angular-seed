@@ -1,4 +1,4 @@
-Angular Seed [![Build Status](https://secure.travis-ci.org/sdeering/angular-seed.png?branch=master)](https://travis-ci.org/sdeering/cleverstack-angular-seed) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+Angular Seed [![Build Status](https://secure.travis-ci.org/sdeering/cleverstack-angular-seed.png?branch=master)](https://travis-ci.org/sdeering/cleverstack-angular-seed) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 ====================
 
 <blockquote>
